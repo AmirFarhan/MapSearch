@@ -1,6 +1,10 @@
 # Welcome to MapSearch 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app). It's dedicated to a React Native technical assessment round for Maybank Malaysia.
+<div align="center">
+   <img src="https://github.com/user-attachments/assets/f0891839-3164-46ee-b62b-cb7f9b30baff" width="300" />
+   <img src="https://github.com/user-attachments/assets/45fbe7b0-3897-488e-8447-c2d8f0a4ccd5" width="300" />
+</div>
 
 ## Get started
 
