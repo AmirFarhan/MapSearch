@@ -94,3 +94,4 @@ Utilized:
 3. Should store Google API key in .env file and git ignore that file to avoid publishing online. Since this is an assessment round and I'm only pushing my code once, the constant lives in ```PlaceAPI.ts```.
 4. Google Place API has location bias param, so if we use it to make predictions, the results are catered better for the user.
 5. Can use Domain-Driven Design to structure files.
+6. Use animations to enhance user experience (eg react-native-reanimated).
