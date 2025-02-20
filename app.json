@@ -36,6 +36,17 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "jest": {
+      "preset": "jest-expo",
+      "transformIgnorePatterns": [
+        "node_modules/(?!(react-native|@react-native|@react-native-community|@ant-design/react-native|@bang88/react-native-ultimate-listview)/)"
+      ],
+      "setupFiles": ["<rootDir>/jest.setup.js"],
+      "transform": {
+        "^.+\\.jsx?$": "babel-jest",
+        "^.+\\.tsx?$": "ts-jest"
+      }
     }
   }
 }
