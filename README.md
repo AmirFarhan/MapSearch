@@ -87,6 +87,6 @@ Utilized:
 ## Key findings and future enhancements
 1. [antd](https://ant.design/) is designed for web and is compatible with React Native, had to use [@ant-design/react-native](https://rn.mobile.ant.design/) that is limited with components and documentation is not fully written in English.
 2. Can add feature to clear history.
-3. Should store Google API key in .env file and git ignore that file to avoid publishing online. Since this is an assessment round and I'm only pushing my code once, the constant lives in PlaceAPI.ts.
+3. Should store Google API key in .env file and git ignore that file to avoid publishing online. Since this is an assessment round and I'm only pushing my code once, the constant lives in ```PlaceAPI.ts```.
 4. Google Place API has location bias param, so if we use it to make predictions, the results are catered better for the user.
-5. Can use Domain-Driven Desing to structure files.
+5. Can use Domain-Driven Design to structure files.
